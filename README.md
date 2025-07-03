@@ -36,7 +36,7 @@ We build powerful tools to streamline scheduling, leave tracking, substitutes, a
     <img alt="Website" src="https://img.shields.io/badge/Website-UpstepAcademy.com-blue?style=for-the-badge">
   </a>
   <a href="mailto:upstepoperations@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-operations@upstepacademy.com-green?style=for-the-badge">
+    <img alt="Email" src="https://img.shields.io/badge/Email-upstepoperations@gmail.com-green?style=for-the-badge">
   </a>
   <a href="https://linkedin.com/company/yourcompany">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-UpstepAcademy-blue?style=for-the-badge&logo=linkedin">
