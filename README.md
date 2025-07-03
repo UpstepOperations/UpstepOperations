@@ -3,7 +3,7 @@
   <img src="UA-Logo.png" alt="Upstep Operations Logo" width="200">
 </p>
 
-<h1 align="center">♟️ UpstepOperations</h1>
+<h1 align="center">UpstepOperations</h1>
 
 <p align="center">
   <b>Automation for Chess Academy Operations — Save Time, Focus on Winning</b>
